@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Habib Diaz</h1>
+
+💻 **Programmer Muda | Full Stack Developer | Laravel Enthusiast | Game Developer | Network Enthusiast**  
+Saya adalah seorang programmer muda yang memiliki semangat tinggi untuk terus belajar dan berkembang di dunia teknologi.  
+Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framework **Laravel**, namun saya juga menguasai berbagai bahasa, framework, pengembangan game, hingga desain topologi jaringan.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiazIrfandi&style=flat&label=Profile+Views"/>
   <img src="https://img.shields.io/github/followers/DiazIrfandi?style=flat&logo=github"/>
   <img src="https://img.shields.io/github/stars/DiazIrfandi?style=flat&logo=github"/>
 </p>
-
-💻 **Programmer Muda | Full Stack Developer | Laravel Enthusiast | Game Developer | Network Enthusiast**  
-Saya adalah seorang programmer muda yang memiliki semangat tinggi untuk terus belajar dan berkembang di dunia teknologi.  
-Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framework **Laravel**, namun saya juga menguasai berbagai bahasa, framework, pengembangan game, hingga desain topologi jaringan.
 
 ---
 
@@ -88,8 +88,8 @@ Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framewor
 ---
 
 ## 📫 Hubungi Saya
-- 📧 Email: [email@example.com](mailto:email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- 📧 Email: [diazirfandi@hotmail.com](mailto:diazirfandi@hotmail.com)
+- 💼 LinkedIn: [linkedin.com/in/diazirfandi](https://linkedin.com/in/diazirfandi)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
