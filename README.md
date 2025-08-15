@@ -1,4 +1,9 @@
 <h1 align="center">👋 Hi, I'm Habib Diaz</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DiazIrfandi&style=flat&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/DiazIrfandi?style=flat&logo=github"/>
+  <img src="https://img.shields.io/github/stars/DiazIrfandi?style=flat&logo=github"/>
+</p>
 
 💻 **Programmer Muda | Full Stack Developer | Laravel Enthusiast | Game Developer | Network Enthusiast**  
 Saya adalah seorang programmer muda yang memiliki semangat tinggi untuk terus belajar dan berkembang di dunia teknologi.  
@@ -76,13 +81,6 @@ Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framewor
 </p>
 
 ---
-
-## 📊 GitHub Stats & Info
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat&logo=github"/>
-  <img src="https://img.shields.io/github/stars/yourusername?style=flat&logo=github"/>
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
