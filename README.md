@@ -1,15 +1,17 @@
-# 👋 Hi, I'm Habib Diaz
+<h1 align="center">👋 Hi, I'm Habib Diaz</h1>
 
-💻 **Programmer Muda | Full Stack Developer | Laravel Enthusiast**  
+💻 **Programmer Muda | Full Stack Developer | Laravel Enthusiast | Game Developer | Network Enthusiast**  
 Saya adalah seorang programmer muda yang memiliki semangat tinggi untuk terus belajar dan berkembang di dunia teknologi.  
-Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framework **Laravel**, namun saya juga menguasai berbagai bahasa dan teknologi lainnya.
+Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framework **Laravel**, namun saya juga menguasai berbagai bahasa, framework, pengembangan game, hingga desain topologi jaringan.
 
 ---
 
 ## 🚀 Tentang Saya
 - 🌱 Selalu mempelajari teknologi terbaru di dunia pemrograman.
 - 💡 Terampil dalam membangun aplikasi web mulai dari tahap perancangan hingga deployment.
-- 🔥 Berpengalaman mengembangkan sistem dengan performa tinggi dan desain yang menarik.
+- 🎮 Berpengalaman membuat game 2D/3D di **Godot** dan **Unity**.
+- 🌐 Mampu merancang topologi jaringan menggunakan **Cisco Packet Tracer** & **GNS3**.
+- 🔥 Mengembangkan sistem dengan performa tinggi dan desain yang menarik.
 - 🤝 Terbuka untuk kolaborasi di proyek open source atau freelance.
 
 ---
@@ -36,6 +38,22 @@ Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framewor
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
+## 🎮 Game Development
+<p>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Networking
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GNS3-FF6C37?style=flat&logo=gns3&logoColor=white"/>
 </p>
 
 ---
@@ -72,7 +90,7 @@ Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framewor
 ---
 
 ## 📫 Hubungi Saya
-- 📧 Email: [diazirfandi@hotmail.com](mailto:diazirfandi@hotmail.com)
+- 📧 Email: [email@example.com](mailto:email@example.com)
 - 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 
