@@ -72,7 +72,7 @@ Fokus utama saya adalah **pengembangan web** menggunakan **PHP** dengan framewor
 ---
 
 ## 📫 Hubungi Saya
-- 📧 Email: [email@example.com](mailto:email@example.com)
+- 📧 Email: [diazirfandi@hotmail.com](mailto:diazirfandi@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 
