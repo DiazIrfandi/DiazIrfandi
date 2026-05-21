@@ -36,7 +36,7 @@ I am a passionate developer specializing in backend architecture, API integratio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,docker,linux,nginx,git,github,bash,python,js,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,docker,linux,nginx,git,github,bash,python,js,vscode,ubuntu&perline=7" />
 
 </div>
 
