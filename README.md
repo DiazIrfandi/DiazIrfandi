@@ -77,6 +77,13 @@ Infrastructure automation project using Linux tools and deployment workflows to 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiazIrfandi/DiazIrfandi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiazIrfandi/DiazIrfandi/output/github-snake.svg">
+  <img alt="github contributions snake" src="https://raw.githubusercontent.com/DiazIrfandi/DiazIrfandi/output/github-snake.svg">
+</picture>
+---
+
 <div align="center">
 
 ## 🌐 Connect With Me
